@@ -5,12 +5,11 @@ Some facts about me. Most of them are true.
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 
-A shiny new junior web developer, excited to be moving into this world from a career as a photographer, retoucher and digital shoot operator. Over the course of an intensive 12 weeks I have gone from an interested but apprehensive amateur to competent and confident junior developer. Able to take on new technologies and
+A photographer and web developer. My background combines creativity with high technical knowledge and I love bringing these traits into my coding. I have become really passionate about writing code that is clean, tested and reusable.
 
-Then a sentence about what you've achieved.
+ Having just completed the intensive 16 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested but apprehensive amateur coder to a competent and confident developer. Able to take on new technologies and learn new techniques rapidly and efficiently.
 
-
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am currently looking for a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 ***
 
 ### <a name="skills">Skills</a>
@@ -18,17 +17,14 @@ And then a sentence about what you're looking for: what you would ideally be doi
 #### Software/Web Development
 - **Quick Study** -
 - **Debugging** -
-- **Researching** -
 - **Versatile** -
-- **Problem solving** -
+- **Creative** -
 
 #### Personal traits
 - **Enthusiastic** - I love learning.
 - **Attention to detail** -
 - **Team-player** -
 - **Communication** -
-
-- Real passion for writing clean, tested and reusable code
 
 ***
 
@@ -64,7 +60,7 @@ BA Hons Fine Art, specialising in Photography and Digital Imaging
 
 **Luke Cartledge Photography** (September 2010 to July 2016)    
 *Photographer, Retoucher & Digital Operator*  
-Portfolio Site: [lukecartledge.com](http://www.lukecartledge.com)
+Portfolio Site: [lukecartledge.com](http://www.lukecartledge.com)  
 something something
 
 **Republik** (March 2008 to September 2010)   
