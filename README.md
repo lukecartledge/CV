@@ -29,12 +29,12 @@ I am currently looking for a career in the tech scene of London or Brighton, whe
 ***
 
 ### <a name="projects">Projects & Code</a>
-Project | Description | Technologies Used | Testing Technologies
---- | --- | --- | ---
-[Make It Stop!](https://github.com/MakeItStop/task-based-alarm) | A cross-platform native mobile alarm clock app built for those who find it too hard to wake up in the morning - [Demo]()| NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode | Jasmine, Karma
-[Kittygram](https://github.com/lukecartledge/instagram-challenge) | A simple Instagram clone written over a weekend - [Live](https://kittygram-lucalabs.herokuapp.com/) | Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), CSS3 | RSpec, Capybara
-[Yelp](https://github.com/lukecartledge/yelp_clone) | - [Live](https://yelp-clone-lucalabs.herokuapp.com/) | Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS | RSpec, Capybara
-[Chitter](https://github.com/lukecartledge/chitter-challenge) | Another weekend challenge, this time to clone Twitter | Ruby, Sinatra, Postgres /w DataMapper, HTML5(HAML), CSS3 | RSpec, Capybara
+Project | Description | Links | Technologies Used | Testing Technologies
+--- | --- | --- | --- | ---
+[Make It Stop!][2] | A cross-platform native mobile alarm clock app built for those who find it too hard to wake up in the morning | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode | Jasmine, Karma
+[Kittygram][3] | A simple Instagram clone written over a weekend | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), CSS3 | RSpec, Capybara
+[Yelp][4] |  | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS | RSpec, Capybara
+[Chitter][5] | Another weekend challenge, this time to clone Twitter | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][8] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][5] | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), CSS3 | RSpec, Capybara
 
 
 ### <a name="skills">Education</a>
@@ -88,3 +88,12 @@ Responsible for bringing operators up to speed for the high-pressure photo shoot
 
 #### Footnotes
 <a name="footnote1">1</a>: this is not true
+
+[2]: https://github.com/MakeItStop/task-based-alarm
+[3]: https://github.com/lukecartledge/instagram-challenge
+[4]: https://github.com/lukecartledge/yelp_clone
+[5]: https://github.com/lukecartledge/chitter-challenge
+[6]: https://kittygram-lucalabs.herokuapp.com
+[7]: https://yelp-clone-lucalabs.herokuapp.com
+[8]: https://chitter-lucalabs.herokuapp.com
+[9]: https://www.youtube.com/watch?v=WGuyOzGttv0
