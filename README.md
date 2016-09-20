@@ -7,7 +7,7 @@ Some facts about me. Most of them are true.
 
 A photographer and web developer. My background combines creativity with high technical knowledge and I love bringing these traits into my coding. I have become really passionate about writing code that is clean, tested and reusable.
 
- Having just completed the intensive 16 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested but apprehensive amateur coder to a competent and confident developer. Able to take on new technologies and learn new techniques rapidly and efficiently.
+ Having just completed the intensive 16 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested but apprehensive amateur coder to a competent and confident developer.
 
 I am currently looking for a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 ***
@@ -15,15 +15,15 @@ I am currently looking for a career in the tech scene of London or Brighton, whe
 ### <a name="skills">Skills</a>
 
 #### Software/Web Development
-- **Quick Study** -
-- **Debugging** -
-- **Versatile** -
-- **Creative** -
+- **Quick Study** - Able to take on new technologies and learn new techniques rapidly and efficiently. Actively sought out challenges during the Makers Academy course, including producing our two week final project in Angular 2 and Typescript with no prior experience.
+- **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked on shoots around the world with huge diversity of crews and technologies. There is always a way to connect.
+- **Creative** - A photographer, trained in fine art, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
+- **Inquisitive** - I love learning.
 
 #### Personal traits
-- **Enthusiastic** - I love learning.
-- **Attention to detail** -
-- **Team-player** -
+- **Attention to detail** - Photography and retouch require extraordinary attention to the details and
+- **Enthusiastic** -
+- **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership.
 - **Communication** -
 
 ***
@@ -65,7 +65,7 @@ something something
 
 **Republik** (March 2008 to September 2010)   
 *Senior Digital Operator & Systems Admin*  
-something something
+Responsible for bringing operators up to speed for the high-pressure photo shoot environment and for managing the IT infrastructure of the company,
 
 ***
 
