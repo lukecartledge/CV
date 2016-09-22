@@ -18,18 +18,18 @@ I am currently looking for a career in the tech scene of London or Brighton, whe
 - **Quick Study** - Able to take on new technologies and learn new techniques rapidly and efficiently. Actively sought out challenges during the Makers Academy course, including producing our two week final project in Angular 2 and Typescript with no prior experience.
 - **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked on shoots around the world with huge diversity of crews and technologies. There is always a way to connect.
 - **Creative** - A photographer, trained in fine art, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
-- **Inquisitive** - I love learning.
+- **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
 
 #### Personal traits
-- **Attention to detail** - Photography and retouch require extraordinary attention to the details and
-- **Enthusiastic** -
-- **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership.
-- **Communication** -
+- **Attention to detail** - From my own shoots, to retouching and operating on advertising shoots, I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits together to finding that one tiny bug.
+- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
+- **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
+- **Commitment** - I am highly motivated, and unafraid of challenge. I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
 
 ***
 
 ### <a name="projects">Projects & Code</a>
-Project | Description | Links | Technologies Used | Testing Technologies
+Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
 [Make It Stop!][2] | A cross-platform native mobile alarm clock app built for those who find it too hard to wake up in the morning | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | NativeScript, Angular 2, Typescript, Javascript, CSS, Xcode | Jasmine, Karma
 [Kittygram][3] | A simple Instagram clone written over a weekend | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), CSS3 | RSpec, Capybara
@@ -61,11 +61,11 @@ BA Hons Fine Art, specialising in Photography and Digital Imaging
 **Luke Cartledge Photography** (September 2010 to July 2016)    
 *Photographer, Retoucher & Digital Operator*  
 Portfolio Site: [lukecartledge.com](http://www.lukecartledge.com)  
-something something
+As a freelance digital photography professional I was a self-starter and worked in a variety of challenging, detail-oriented rolls. I was a photographer, retoucher, consultant tech support, digital shoot operator and photo assistant over the course of my career.
 
 **Republik** (March 2008 to September 2010)   
 *Senior Digital Operator & Systems Admin*  
-Responsible for bringing operators up to speed for the high-pressure photo shoot environment and for managing the IT infrastructure of the company,
+Responsible for training digital shoot operators up for the high-pressure advertising and fashion photo shoot environment and for managing the IT infrastructure of the company.
 
 ***
 
