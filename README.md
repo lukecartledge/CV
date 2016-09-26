@@ -19,7 +19,7 @@ I am currently looking to take on a career in the tech scene of London or Bright
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in Angular 2 and Typescript with no prior experience.
 - **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
 - **Attention to detail** - From my own shoots, to retouching and operating on advertising shoots, I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits together to finding that one tiny bug.
-- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks and
+- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
 - **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
 - **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
 
