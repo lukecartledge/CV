@@ -72,7 +72,6 @@ Responsible for training digital shoot operators up for the high-pressure advert
 - **Snowboarding**
 - **Books** - I seem to read a lot
 - **Running**
-- **Ostrich Racing**<sup>[1](#footnote1)</sup>
 
 ***
 
@@ -84,7 +83,6 @@ Responsible for training digital shoot operators up for the high-pressure advert
 - Coding Blog/Site: [lucalabs.com](http://www.lucalabs.com)
 
 #### Footnotes
-<a name="footnote1">1</a>: this is not true
 
 [2]: https://github.com/MakeItStop/task-based-alarm
 [3]: https://github.com/lukecartledge/instagram-challenge
