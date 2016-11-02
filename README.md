@@ -1,13 +1,13 @@
 # Luke Cartledge  
 
-Some facts about me. Most of them are true.
+Some facts about me.
 ***
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Photography](http://www.lukecartledge.com)
 
-A photographer and web developer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
+A full-stack junior web developer specialising in the front-end and a photographer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
- Having just completed the intensive 16 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested but apprehensive amateur coder to a competent and confident junior developer.
+Having just completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested but apprehensive amateur coder to a competent and confident junior developer.
 
 I am currently looking to take on a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 ***
@@ -44,7 +44,7 @@ Highly selective 12 week intensive coding bootcamp.
 - Full stack web development
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- Exposure to OOP, TDD, SOLID, MVC, DDD
+- Exposure to OOP, TDD, SOLID, MVC
 - Final project: Make It Stop! a cross-platform native mobile alarm clock app.
 
 #### London Metropolitan University (September 1999 to July 2002)
