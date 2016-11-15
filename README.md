@@ -78,7 +78,6 @@ Responsible for training digital shoot operators up for the high-pressure advert
 ### <a name="contact">Contact</a>
 - Github: [lukecartledge](https://github.com/lukecartledge)
 - Twitter: [@lukecartledge](https://twitter.com/lukecartledge)
-- LinkedIn: [lukecartledge](https://uk.linkedin.com/in/lukecartledge)
 - Codewars http://www.codewars.com/users/lukecartledge
 - Coding Blog/Site: [lucalabs.com](http://www.lucalabs.com)
 
