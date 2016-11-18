@@ -81,7 +81,6 @@ Responsible for training digital shoot operators up for the high-pressure advert
 - Codewars http://www.codewars.com/users/lukecartledge
 - Coding Blog/Site: [lucalabs.com](http://www.lucalabs.com)
 
-#### Footnotes
 
 [2]: https://github.com/MakeItStop/task-based-alarm
 [3]: https://github.com/lukecartledge/instagram-challenge
