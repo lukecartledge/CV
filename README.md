@@ -5,9 +5,9 @@ Some facts about me.
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](http://www.lukecartledge.com)
 
-A full-stack junior web developer specialising in the front-end and a photographer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
+A full-stack junior web developer specialising in the front-end. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
-Having just completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested but apprehensive amateur coder to a competent and confident junior developer.
+Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
 
 I am currently looking to take on a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 ***
@@ -33,7 +33,7 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 [Yelp Clone][4] | A test-driven Yelp-like restaurant review application that introduced me to Oauth and to SASS styling | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS | RSpec, Capybara
 [Chitter][5] | Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][8] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][5] | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS | RSpec, Capybara
 
-*All source code available on Github: [https://github.com/lukecartledge](1)
+*All source code available on Github: [https://github.com/lukecartledge][1]
 
 
 ### <a name="skills">Education</a>
@@ -78,7 +78,7 @@ Responsible for training digital shoot operators up for the high-pressure advert
 ***
 
 ### <a name="contact">Contact</a>
-- Github: [lukecartledge](1)
+- Github: [lukecartledge][1]
 - Twitter: [@lukecartledge](https://twitter.com/lukecartledge)
 - Codewars http://www.codewars.com/users/lukecartledge
 - Coding Blog/Site: [lucalabs.com](http://www.lucalabs.com)
