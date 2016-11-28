@@ -42,11 +42,12 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 Highly selective 12 week intensive coding bootcamp.
 
 - Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
-- Object oriented programming, software design
+- Object oriented programming & software design
 - Full stack web development
-- Curiosity and hungry passion for code
+- Curiosity and a hungry passion for code
 - Independent learner and problem-solver
-- Exposure to OOP, TDD, SOLID, MVC
+- Aspiration to software craftsmanship
+- Experience with MVC framework patterns
 - Final project: Make It Stop! a cross-platform native mobile alarm clock app.
 
 #### London Metropolitan University (September 1999 to July 2002)
