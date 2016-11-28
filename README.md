@@ -2,8 +2,8 @@
 
 Some facts about me.
 ***
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
-[Photography](http://www.lukecartledge.com)
+[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Portfolio](http://www.lukecartledge.com)
 
 A full-stack junior web developer specialising in the front-end and a photographer. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
@@ -14,9 +14,9 @@ I am currently looking to take on a career in the tech scene of London or Bright
 
 ### <a name="skills">Skills</a>
 
-- **Creative** - As a photographer, trained in fine art, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
-- **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked on shoots around the world with huge diversity of crews and technologies. There is always a way to connect.
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in Angular 2 and Typescript with no prior experience.
+- **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked on shoots around the world with huge diversity of crews and technologies. There is always a way to connect.
+- **Creative** - As a photographer, trained in fine art, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
 - **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
 - **Attention to detail** - From my own shoots, to retouching and operating on advertising shoots, I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits together to finding that one tiny bug.
 - **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
@@ -32,6 +32,8 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 [Kittygram][3] | A simple Instagram clone written over a weekend as part of Makers Academy's weekend challenges | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), SASS | RSpec, Capybara
 [Yelp Clone][4] | A test-driven Yelp-like restaurant review application that introduced me to Oauth and to SASS styling | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Rails, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), SASS | RSpec, Capybara
 [Chitter][5] | Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][8] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][5] | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS | RSpec, Capybara
+
+*All source code available on Github: [https://github.com/lukecartledge](1)
 
 
 ### <a name="skills">Education</a>
@@ -76,12 +78,12 @@ Responsible for training digital shoot operators up for the high-pressure advert
 ***
 
 ### <a name="contact">Contact</a>
-- Github: [lukecartledge](https://github.com/lukecartledge)
+- Github: [lukecartledge](1)
 - Twitter: [@lukecartledge](https://twitter.com/lukecartledge)
 - Codewars http://www.codewars.com/users/lukecartledge
 - Coding Blog/Site: [lucalabs.com](http://www.lucalabs.com)
 
-
+[1]: https://github.com/lukecartledge
 [2]: https://github.com/MakeItStop/task-based-alarm
 [3]: https://github.com/lukecartledge/instagram-challenge
 [4]: https://github.com/lukecartledge/yelp_clone
