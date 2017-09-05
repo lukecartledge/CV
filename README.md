@@ -3,7 +3,7 @@
 Some facts about me.
 ***
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
-[Portfolio](http://www.lukecartledge.com)
+[Portfolio](https://www.lukecartledge.com)
 
 A full-stack junior web developer specialising in the front-end. My background combines creativity with a super high level of technical knowledge and I love bringing these traits into my coding. I have become hugely passionate about writing code that is clean, tested and reusable.
 
