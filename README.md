@@ -58,6 +58,9 @@ BA Hons Fine Art, specialising in Photography and Digital Imaging
 
 ### <a name="experience">Experience</a>
 
+**Datanauts** (January 2017 to Current)
+*Full Stack Developer*
+
 **Luke Cartledge Photography** (September 2010 to July 2016)    
 *Photographer, Retoucher & Digital Operator*  
 Portfolio Site: [lukecartledge.com](http://www.lukecartledge.com)  
